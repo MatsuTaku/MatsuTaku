@@ -1,20 +1,9 @@
-<!--
-**MatsuTaku/MatsuTaku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MatsuTaku
+=====
+I'm researcher of Algorithm and Datastructures, especially kind of strings.
+Double Array Structures is one of main target of my contributions.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-I'm researcher of algorithm and datastructures, especially kind of strings.
-
-![atcoder/matsutaku](https://run.kaist.ac.kr/badges/atcoder/MatsuTaku.svg)
-![atcoder/codeforces](https://run.kaist.ac.kr/badges/codeforces/MatsuTaku.svg)
-![atcoder/topcoder](https://run.kaist.ac.kr/badges/topcoder/MatsuTaku.svg)
+Competitive programming stats
+-----
+[![MatsuTaku](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FMatsuTaku&style=for-the-badge)](https://atcoder.jp/users/MatsuTaku)
+[![MatsuTaku](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fcodeforces%2Fjson%2FMatsuTaku&style=for-the-badge)](https://codeforces.com/profile/MatsuTaku)
