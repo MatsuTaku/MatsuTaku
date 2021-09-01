@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **MatsuTaku/MatsuTaku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm researcher of algorithm and datastructures, especially kind of strings.
+
+![atcoder/matsutaku](https://run.kaist.ac.kr/badges/atcoder/MatsuTaku.svg)
+![atcoder/codeforces](https://run.kaist.ac.kr/badges/codeforces/MatsuTaku.svg)
+![atcoder/topcoder](https://run.kaist.ac.kr/badges/topcoder/MatsuTaku.svg)
