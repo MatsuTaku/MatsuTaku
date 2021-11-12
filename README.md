@@ -28,6 +28,7 @@ Basic Data Structures
 - [plain-da-tries](https://github.com/MatsuTaku/plain-da-tries)
 - [sorted-set-python](https://github.com/MatsuTaku/sorted-set-python)
 - [suffix-array-library](https://github.com/MatsuTaku/suffix-array-library)
+- [SimpleDataStructures](https://github.com/MatsuTaku/SimpleDataStructure)
 
 Competitive programming stats
 -----
