@@ -1,7 +1,13 @@
 MatsuTaku
 =====
-I'm researcher of Algorithm and Datastructures, especially kind of strings.
-Double Array Structures is one of main target of my contributions.
+I'm researcher of Algorithms and Datastructures, especially kind of strings.
+Double-Array Structures is one of the main target of my contributions.
+
+Programming Language
+-----
+- **C++**: Library of data structures
+- **Swift, Objective-C, Android Java**: Mobile application development
+- **C, Rust, TypeScript**: basics
 
 Competitive programming stats
 -----
