@@ -23,12 +23,12 @@ Library of research results
 
 Basic Data Structures
 -----
-- [libbo](https://github.com/MatsuTaku/libbo)
+- [libbo](https://github.com/MatsuTaku/libbo): Easy to use bit-manipulation
 - [succinct-tries](https://github.com/MatsuTaku/succinct-tries)
-- [plain-da-tries](https://github.com/MatsuTaku/plain-da-tries)
-- [sorted-set-python](https://github.com/MatsuTaku/sorted-set-python)
+- [plain-da-tries](https://github.com/MatsuTaku/plain-da-tries): Plain Double-Array tries
+- [sorted-set-python](https://github.com/MatsuTaku/sorted-set-python): OrderedSet implemented by SkipList
 - [suffix-array-library](https://github.com/MatsuTaku/suffix-array-library)
-- [SimpleDataStructures](https://github.com/MatsuTaku/SimpleDataStructure)
+- [SimpleDataStructures](https://github.com/MatsuTaku/SimpleDataStructure): Several succinct data structuers
 
 Competitive programming stats
 -----
